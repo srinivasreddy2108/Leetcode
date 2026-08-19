@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0001-two-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Greedy
 |  |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
