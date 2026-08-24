@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Simulation
