@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
