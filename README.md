@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/srinivasreddy2108/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
