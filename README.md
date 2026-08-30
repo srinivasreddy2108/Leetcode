@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
 | ------- |
