@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3798-largest-even-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
