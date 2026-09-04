@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3903-smallest-stable-index-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sliding Window
 |  |
