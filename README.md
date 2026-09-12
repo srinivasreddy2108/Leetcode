@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srinivasreddy2108/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/srinivasreddy2108/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
