@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srinivasreddy2108/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srinivasreddy2108/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/srinivasreddy2108/Leetcode/tree/master/0409-longest-palindrome) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2063-vowels-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srinivasreddy2108/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
