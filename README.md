@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/srinivasreddy2108/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
