@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/3798-largest-even-number) |
 ## Greedy
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
