@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srinivasreddy2108/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
