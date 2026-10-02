@@ -7,18 +7,16 @@ public:
             mpp[nums[i]]++;
         }
         vector<int>ans;
-        while(ans.size()<=n){
-            int flag=0;
+        while(ans.size()<n){
+            
             for(auto it=mpp.begin();it!=mpp.end();it++){
-                if(it->second){
+                if(it->second>0){
                 ans.push_back(it->first);
                 it->second--;
-                flag=1;
+                
                 }
             }
-            if(flag==0){
-                break;
-            }
+            
         }
         return ans;
     }
