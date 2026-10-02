@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [4006-count-valid-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/4006-count-valid-prefixes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -288,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/srinivasreddy2108/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
