@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/srinivasreddy2108/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
