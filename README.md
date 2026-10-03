@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srinivasreddy2108/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/srinivasreddy2108/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srinivasreddy2108/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Indexed Tree
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -256,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srinivasreddy2108/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Combinatorics
 |  |
@@ -317,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srinivasreddy2108/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
