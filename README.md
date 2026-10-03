@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/srinivasreddy2108/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [4006-count-valid-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/4006-count-valid-prefixes) |
