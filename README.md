@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srinivasreddy2108/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2063-vowels-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Game Theory
 |  |
