@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/srinivasreddy2108/Leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2063-vowels-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Game Theory
 |  |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Graph Theory
