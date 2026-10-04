@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/srinivasreddy2108/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/srinivasreddy2108/Leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Sorting
 |  |
 | ------- |
