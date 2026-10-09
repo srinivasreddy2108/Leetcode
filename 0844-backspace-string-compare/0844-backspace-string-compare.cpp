@@ -3,46 +3,40 @@ public:
     bool backspaceCompare(string s, string t) {
         int m=s.size();
         int n=t.size();
-        vector<bool>v1(m,0);
-        vector<bool>v2(n,0);
+        stack<char>st1;
+        stack<char>st2;
         for(int i=0;i<m;i++){
-            
-            if(s[i]=='#'){
-                v1[i]=1;
-                for(int j=i-1;j>=0;j--){
-                    if(v1[j]==0){
-                        v1[j]=1;
-                        break;
-                    }
-                }
+            if(s[i]>='a'&&s[i]<='z'){
+                st1.push(s[i]);
+            }
+            else{
+                if(!st1.empty())
+                    st1.pop();
             }
         }
         for(int i=0;i<n;i++){
-            
-            if(t[i]=='#'){
-                v2[i]=1;
-                for(int j=i-1;j>=0;j--){
-                    if(v2[j]==0){
-                        v2[j]=1;
-                        break;
-                    }
-                }
+            if(t[i]>='a'&&t[i]<='z'){
+                st2.push(t[i]);
+            }
+            else{
+                if(!st2.empty())
+                    st2.pop();
             }
         }
-        string s1;
-        string s2;
-        for(int i=0;i<m;i++){
-            if(v1[i]==0){
-                s1+=s[i];
+        while(!st1.empty()&&!st2.empty()){
+            if(st1.top()!=st2.top()){
+                return 0;
             }
+            st1.pop();
+            st2.pop();
         }
-        
-        for(int i=0;i<n;i++){
-            if(v2[i]==0){
-                s2+=t[i];
-            }
+        if(!st1.empty()){
+            return 0;
         }
-        cout<<s1<<" "<<s2;
-        return s1==s2;
+        if(!st2.empty()){
+
+            return 0;
+        }
+        return 1;
     }
 };
