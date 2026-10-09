@@ -3,12 +3,9 @@ public:
     int residuePrefixes(string s) {
         int n=s.size();
         int cnt=0;
+        unordered_set<char>st;
         for(int i=0;i<n;i++){
-            unordered_set<char>st;
-            for(int j=0;j<=i;j++){
-                st.insert(s[j]);
-
-            }
+            st.insert(s[i]);
             if((i+1)%3==st.size()){
                 cnt++;
             }
