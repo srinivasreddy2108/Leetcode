@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srinivasreddy2108/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Stack
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
