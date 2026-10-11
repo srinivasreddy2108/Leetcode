@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
