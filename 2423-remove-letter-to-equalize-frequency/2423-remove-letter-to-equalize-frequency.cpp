@@ -11,13 +11,24 @@ public:
                 continue;
             }
             hash[i]--;
-            unordered_set<int>s;
+            bool flag=1;
+            int set;
+            int freq=-1;
             for(int j=0;j<26;j++){
                 if(hash[j]){
-                    s.insert(hash[j]);
+                    if(freq==-1){
+                        set=hash[j];
+                        freq=0;
+                    }
+                    else{
+                        if(set!=hash[j]){
+                            flag=0;
+                            break;
+                        }
+                    }
                 }
             }
-            if(s.size()==1){
+            if(flag==1){
                 return 1;
             }
             hash[i]++;
