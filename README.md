@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/srinivasreddy2108/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/3798-largest-even-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [4006-count-valid-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/4006-count-valid-prefixes) |
