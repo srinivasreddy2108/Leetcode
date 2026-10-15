@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srinivasreddy2108/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/srinivasreddy2108/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3803-count-residue-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/3803-count-residue-prefixes) |
+| [3866-first-unique-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3866-first-unique-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4006-count-valid-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/4006-count-valid-prefixes) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
