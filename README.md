@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
