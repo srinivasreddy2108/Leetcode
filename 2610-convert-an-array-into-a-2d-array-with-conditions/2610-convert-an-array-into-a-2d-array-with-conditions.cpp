@@ -10,7 +10,7 @@ public:
         int flag=1;
         while(flag){
             vector<int>v;
-            int flag=0;
+             flag=0;
         for(auto it=mpp.begin();it!=mpp.end();it++){
             if(it->second){
                 v.push_back(it->first);
@@ -18,10 +18,11 @@ public:
                 flag=1;
             }
         }
-        if(flag==0){
-            break;
-        }
-        ans.push_back(v);
+        // if(flag==0){
+        //     break;
+        // }
+        if(!v.empty())
+            ans.push_back(v);
         }
         return ans;
     }
