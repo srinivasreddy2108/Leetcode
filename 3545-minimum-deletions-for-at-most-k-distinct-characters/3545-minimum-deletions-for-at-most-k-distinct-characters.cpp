@@ -7,24 +7,18 @@ public:
         for(int i=0;i<n;i++){
             hash[s[i]-'a']+=1;
         }
-        int count=0;
+        priority_queue<int,vector<int>,greater<int>>pq;
         for(int i=0;i<26;i++){
             if(hash[i]){
-                count++;
+                pq.push(hash[i]);
             }
         }
-        for(int i=1;i<=count-k;i++){
-            int mini=INT_MAX;
-            int store=-1;
-            for(int j=0;j<26;j++){
-                if(hash[j]<mini&&hash[j]){
-                    mini=hash[j];
-                    store=j;
-                }
-            }
-            hash[store]=0;
-            sum+=mini;
-
+        if(pq.size()<=k){
+            return 0;
+        }
+        while(!pq.empty()&&pq.size()!=k){
+            sum+=pq.top();
+            pq.pop();
         }
         return sum;
     }
