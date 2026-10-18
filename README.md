@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/srinivasreddy2108/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/3803-count-residue-prefixes) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2578-split-with-minimum-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/srinivasreddy2108/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3866-first-unique-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/srinivasreddy2108/Leetcode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2578-split-with-minimum-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
