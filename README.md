@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srinivasreddy2108/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/srinivasreddy2108/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
