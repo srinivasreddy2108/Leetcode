@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
