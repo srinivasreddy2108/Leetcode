@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srinivasreddy2108/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
