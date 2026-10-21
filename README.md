@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3713-longest-balanced-substring-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/srinivasreddy2108/Leetcode/tree/master/3803-count-residue-prefixes) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srinivasreddy2108/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
