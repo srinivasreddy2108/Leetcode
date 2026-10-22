@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/srinivasreddy2108/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/srinivasreddy2108/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [1323-maximum-69-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/srinivasreddy2108/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/srinivasreddy2108/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
