@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srinivasreddy2108/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/srinivasreddy2108/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/srinivasreddy2108/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/srinivasreddy2108/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
