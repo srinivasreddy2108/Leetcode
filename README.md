@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1122-relative-sort-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1441-build-an-array-with-stack-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/srinivasreddy2108/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
