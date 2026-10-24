@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
+| [0989-add-to-array-form-of-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1122-relative-sort-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/1122-relative-sort-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1323-maximum-69-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/srinivasreddy2108/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
