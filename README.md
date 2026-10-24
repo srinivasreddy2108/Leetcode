@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
 | [1323-maximum-69-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/srinivasreddy2108/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -534,4 +535,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/srinivasreddy2108/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
