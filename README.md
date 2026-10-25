@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/srinivasreddy2108/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srinivasreddy2108/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1154-day-of-the-year](https://github.com/srinivasreddy2108/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
 | [1323-maximum-69-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/srinivasreddy2108/Leetcode/tree/master/1492-the-kth-factor-of-n) |
