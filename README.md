@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srinivasreddy2108/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/srinivasreddy2108/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/srinivasreddy2108/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/srinivasreddy2108/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srinivasreddy2108/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Game Theory
 |  |
 | ------- |
