@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/srinivasreddy2108/Leetcode/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/srinivasreddy2108/Leetcode/tree/master/1544-make-the-string-great) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/srinivasreddy2108/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1441-build-an-array-with-stack-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/srinivasreddy2108/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/srinivasreddy2108/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/0143-reorder-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
