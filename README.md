@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/srinivasreddy2108/Leetcode/tree/master/2347-best-poker-hand) |
 | [2363-merge-similar-items](https://github.com/srinivasreddy2108/Leetcode/tree/master/2363-merge-similar-items) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/srinivasreddy2108/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2578-split-with-minimum-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/srinivasreddy2108/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/srinivasreddy2108/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/srinivasreddy2108/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/srinivasreddy2108/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2363-merge-similar-items](https://github.com/srinivasreddy2108/Leetcode/tree/master/2363-merge-similar-items) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2578-split-with-minimum-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Heap (Priority Queue)
 |  |
