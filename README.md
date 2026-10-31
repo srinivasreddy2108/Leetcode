@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srinivasreddy2108/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/srinivasreddy2108/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/srinivasreddy2108/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/srinivasreddy2108/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
