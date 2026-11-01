@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0824-goat-latin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
