@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srinivasreddy2108/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1630-arithmetic-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/srinivasreddy2108/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/srinivasreddy2108/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/srinivasreddy2108/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
