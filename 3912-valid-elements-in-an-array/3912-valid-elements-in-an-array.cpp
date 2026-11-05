@@ -2,28 +2,25 @@ class Solution {
 public:
     vector<int> findValidElements(vector<int>& nums) {
         int n=nums.size();
-        vector<int>v;
+        vector<int>lmax;
+        int lmaxi=nums[0];
         for(int i=0;i<n;i++){
-            if(i==0||i==n-1){
-                v.push_back(nums[i]);
-                continue;
-            }
-            int flag1=1;
-            for(int j=0;j<i;j++){
-                if(!(nums[i]>nums[j])){
-                    flag1=0;
-                }
-            }
-            int flag2=1;
-            for(int j=i+1;j<n;j++){
-                if(!(nums[i]>nums[j])){
-                    flag2=0;
-                }
-            }
-            if(flag1||flag2){
-                v.push_back(nums[i]);
+            lmax.push_back(lmaxi);
+            lmaxi=max(lmaxi,nums[i]);
+        }
+        vector<int>rmax;
+        int rmaxi=nums[n-1];
+        for(int i=n-1;i>=0;i--){
+            rmax.push_back(rmaxi);
+            rmaxi=max(rmaxi,nums[i]);
+        }
+        reverse(rmax.begin(),rmax.end());
+        vector<int>ans;
+        for(int i=0;i<n;i++){
+            if(nums[i]>lmax[i]||nums[i]>rmax[i]||i==0||i==n-1){
+                ans.push_back(nums[i]);
             }
         }
-        return v;
+        return ans;
     }
 };
