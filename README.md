@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/srinivasreddy2108/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2643-row-with-maximum-ones](https://github.com/srinivasreddy2108/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2683-neighboring-bitwise-xor](https://github.com/srinivasreddy2108/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/srinivasreddy2108/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/srinivasreddy2108/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/srinivasreddy2108/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/srinivasreddy2108/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
