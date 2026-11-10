@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -619,4 +620,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
