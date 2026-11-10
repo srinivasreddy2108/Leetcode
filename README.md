@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/srinivasreddy2108/Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/1122-relative-sort-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/srinivasreddy2108/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -625,16 +627,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
