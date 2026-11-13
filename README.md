@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
