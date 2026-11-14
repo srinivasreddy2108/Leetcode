@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/srinivasreddy2108/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/srinivasreddy2108/Leetcode/tree/master/0824-goat-latin) |
@@ -672,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
