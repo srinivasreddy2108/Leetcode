@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2293-min-max-game](https://github.com/srinivasreddy2108/Leetcode/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/srinivasreddy2108/Leetcode/tree/master/2347-best-poker-hand) |
