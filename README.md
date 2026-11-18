@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/srinivasreddy2108/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/srinivasreddy2108/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/srinivasreddy2108/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/srinivasreddy2108/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/srinivasreddy2108/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/srinivasreddy2108/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srinivasreddy2108/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
