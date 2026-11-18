@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
 ## Union-Find
 |  |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
