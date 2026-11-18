@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/srinivasreddy2108/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0999-available-captures-for-rook](https://github.com/srinivasreddy2108/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1122-relative-sort-array](https://github.com/srinivasreddy2108/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/srinivasreddy2108/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srinivasreddy2108/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srinivasreddy2108/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srinivasreddy2108/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/srinivasreddy2108/Leetcode/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/srinivasreddy2108/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srinivasreddy2108/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -693,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/srinivasreddy2108/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srinivasreddy2108/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/srinivasreddy2108/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
