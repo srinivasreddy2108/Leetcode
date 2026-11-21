@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/srinivasreddy2108/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2578-split-with-minimum-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/srinivasreddy2108/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/srinivasreddy2108/Leetcode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/srinivasreddy2108/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/srinivasreddy2108/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/srinivasreddy2108/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
