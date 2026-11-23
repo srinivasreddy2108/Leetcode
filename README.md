@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/srinivasreddy2108/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/srinivasreddy2108/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/srinivasreddy2108/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srinivasreddy2108/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinivasreddy2108/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1436-destination-city](https://github.com/srinivasreddy2108/Leetcode/tree/master/1436-destination-city) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srinivasreddy2108/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/srinivasreddy2108/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/srinivasreddy2108/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/srinivasreddy2108/Leetcode/tree/master/1175-prime-arrangements) |
 | [1323-maximum-69-number](https://github.com/srinivasreddy2108/Leetcode/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/srinivasreddy2108/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/srinivasreddy2108/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/srinivasreddy2108/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -745,4 +748,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/srinivasreddy2108/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srinivasreddy2108/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
